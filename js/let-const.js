@@ -48,7 +48,7 @@ console.log(hello); */
 
 //hoisting related issue
 /* console.log(hoisting);
-var hoisting = 'Hello I am Var'; */
+var hoisting = 'hello I am Var'; */
 
 // -----------------------------------------------------------
 
